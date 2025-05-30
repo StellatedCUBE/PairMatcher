@@ -1,0 +1,23 @@
+{
+  "name": "pair-matcher",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StellatedCUBE/PairMatcher.git"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/StellatedCUBE/PairMatcher/issues"
+  },
+  "homepage": "https://github.com/StellatedCUBE/PairMatcher#readme",
+  "dependencies": {
+    "ws": "^8.18.2"
+  }
+}
